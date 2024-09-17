@@ -1,6 +1,6 @@
 ## Media File Sanitizer
 
-**A WordPress plugin to sanitize exsiting and new media file names while also renaming files on filesystem.**
+**A WordPress plugin, which upon activation, sanitizes exsiting and new media file names while also renaming files on filesystem.**
 
 _PS: This plugin is created using ChatGPT and is not battle/production-tested. Use with caution._
 
